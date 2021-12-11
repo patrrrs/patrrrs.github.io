@@ -4,9 +4,6 @@
     box-sizing: border-box;
 
 }
-body{
-    max-width: 700px;
-}
 nav{
     overflow: hidden;
     display: flex;
